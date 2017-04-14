@@ -18,3 +18,7 @@ If you want to make simple TCP Server, then use this project!
 clone -> add your packet handling in `handleRequest()` -> run -> done!
 
 Thanks.
+
+## TODO
+1. Add Packet Handler with Google Protobuf
+2. Add Client Example
